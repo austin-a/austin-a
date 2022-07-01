@@ -1,4 +1,4 @@
-Hi there! I'm an Angular developer with an interest is site performance and Linux.
+Hi there! I'm an Angular developer with an interest in site performance and Linux.
 
 <!---
 austin-a/austin-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
